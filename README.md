@@ -16,22 +16,28 @@ The perfect music bot for your Discord server! 🎶
 
 Here are all the available commands in the bot!
 
-|      Name      |            Description            |  Options  |
-|:---------------|:---------------------------------:|----------:|
-|   **/back**    |     Plays the previous track      |           |
-| **/bassboost** |     Toggles bassboost filter      |           |
-|   **/jump**    |     Jumps to a specific track     | \<tracks> |
-|   **/loop**    |          Sets loop mode           |  \<mode>  |
-|    **/np**     | See what's currently being played |           |
-|   **/pause**   |      Pause the current song       |           |
-|   **/play**    |     Plays a song from youtube     | \<query>  |
-|   **/queue**   |           See the queue           |           |
-|  **/resume**   |      Resume the current song      |           |
-|   **/seek**    |      Seeks to the given time      |  \<time>  |
-|  **/shuffle**  |        Shuffles the queue         |           |
-|   **/skip**    |     Skip to the current song      |           |
-|   **/stop**    |          Stop the player          |           |
-|  **/volume**   |         Sets music volume         | \<amount> |
+|      Name      |              Description               |  Options  |
+|:---------------|:--------------------------------------:|----------:|
+|   **/back**    |        Plays the previous track        |           |
+| **/bassboost** |        Toggles bassboost filter        |           |
+| **/emoticons** | lists out one of the dumbass emoticons |           |
+|   **/gaali**   |  lists out one of the dumbass gaalis   |           |
+|    **/gif**    |                gibs gif                | \<query>  |
+|   **/jump**    |       Jumps to a specific track        | \<tracks> |
+|   **/loop**    |             Sets loop mode             |  \<mode>  |
+|  **/month2**   |       i wonder what this does :)       |           |
+|    **/np**     |   See what's currently being played    |           |
+|   **/pause**   |         Pause the current song         |           |
+|   **/play**    |       Plays a song from youtube        | \<query>  |
+|  **/virish**   |           our cute proposal            |           |
+|   **/queue**   |             See the queue              |           |
+|   **/quote**   |  lists out one of the dumbass quotes   |           |
+|  **/resume**   |        Resume the current song         |           |
+|   **/seek**    |        Seeks to the given time         |  \<time>  |
+|  **/shuffle**  |           Shuffles the queue           |           |
+|   **/skip**    |        Skip to the current song        |           |
+|   **/stop**    |            Stop the player             |           |
+|  **/volume**   |           Sets music volume            | \<amount> |
 
 ## About
 
