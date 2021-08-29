@@ -5,5 +5,4 @@ RUN apk add ffmpeg
 COPY . .
 RUN npm install
 
-CMD node .
-
+CMD ["node", "index.js"]
